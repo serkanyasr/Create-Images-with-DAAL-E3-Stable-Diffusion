@@ -1,8 +1,8 @@
-# ChatAI-Explorer
+# Create Images with DALL·E3 and Stable Diffusion
 
-AI Chatroom is a project that provides interactive chat experiences with three major language models: ChatGPT, Gemini, and Claude.
+It is a research and application project on image synthesis and manipulation using DALL-E3 and Stable Diffusion models. The aim is to understand the use of these models and develop sample applications.
 
-![image](https://github.com/serkanyasr/ChatAI-Explorer/assets/80819652/eb68d1be-6dd2-4606-a963-a51dbd34a7f4)
+![image](https://github.com/serkanyasr/Create-Images-with-DALL-E3-Stable-Diffusion/assets/80819652/e26c0c27-03c6-42eb-b551-acc61881cfc1)
 
 
 ## How to Use
@@ -12,13 +12,13 @@ To run the project on your local machine, follow these steps:
 1. Clone the project repository:
 
     ```bash
-    git clone https://github.com/serkanyasr/ChatAI-Explorer.git
+    git clone https://github.com/serkanyasr/Create-Images-with-DALL-E3-Stable-Diffusion.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ChatAI-Explorer
+    cd Create-Images-with-DALL-E3-Stable-Diffusion
     ```
 
 3. Install the required dependencies:
@@ -35,7 +35,11 @@ To run the project on your local machine, follow these steps:
 
 
 
-https://github.com/serkanyasr/ChatAI-Explorer/assets/80819652/e53a0006-6c2e-4b53-84bb-42ab4d061f04
+
+
+
+https://github.com/serkanyasr/Create-Images-with-DALL-E3-Stable-Diffusion/assets/80819652/28fd3471-2d22-40d4-93b2-14f913ed8ce6
+
 
 
 
